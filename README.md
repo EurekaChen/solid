@@ -4,7 +4,7 @@
 
 ![Solid Logo](https://avatars3.githubusercontent.com/u/14262490?v=3&s=200)
 
-> Re-decentralizing the web
+> Re-decentralizing the web 重新去中心化Web
 
 Solid (derived from "**so**cial **li**nked **d**ata") is a proposed set of
 conventions and tools for building *decentralized Web applications* based on
@@ -12,17 +12,19 @@ conventions and tools for building *decentralized Web applications* based on
 is modular and extensible. It relies as much as possible on existing
 [W3C](http://www.w3.org/) standards and protocols.
 
-## Table of Contents
+Solid (来自于"**so**cial **li**nked **d**ata")* ata”）是一组基于[关联数据](http://www.w3.org/DesignIssues/LinkedData.html)准则的，构建 *去中心化Web应用* 的约定和工具的提议。Solid是模块化和可扩展的。 它尽可能依赖现有的[W3C]（http://www.w3.org/）标准和协议。
 
-1. [About Solid](#about-solid)
-2. [Standards Used](#standards-used)
-3. [Platform Notes](#platform-notes)
-4. [Project directory](#project-directory)
-5. [Contributing to Solid](#contributing-to-solid)
-  * [Pre-Requisites](#pre-requisites)
-  * [Solid Project Workflow](#solid-project-workflow)
+## Table of Contents 目录
 
-## About Solid
+1. [About Solid](#about-solid) 关于Solid
+2. [Standards Used](#standards-used) 标准使用
+3. [Platform Notes](#platform-notes) 平台注记
+4. [Project directory](#project-directory) 项目目录
+5. [Contributing to Solid](#contributing-to-solid) 贡献到Solid
+  * [Pre-Requisites](#pre-requisites) 先决条件
+  * [Solid Project Workflow](#solid-project-workflow) Solid项目工作流
+
+## About Solid 关于Solid
 
 Specifically, Solid is:
 
@@ -34,6 +36,7 @@ Specifically, Solid is:
   *identity*, *authentication and login*, *authorization and permission lists*,
   *contact management*, *messaging and notifications*, *feed aggregation and
   subscription*, *comments and discussions*, and more.
+   一个技术栈 
 * A **[Specifications document](https://github.com/solid/solid-spec)**
   that describes a REST API that extends those existing
   standards, contains design notes on the individual components used, and is
